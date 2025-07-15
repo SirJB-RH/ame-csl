@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>AME - Harvard Francisé</title>
+    <id>http://www.zotero.org/styles/ame-harvard-fr</id>
+    <link href="http://www.zotero.org/styles/ame-harvard-fr" rel="self"/>
+    <author>
+      <name>ChatGPT (based on Elsevier Harvard)</name>
+    </author>
+    <category citation-format="author-date"/>
+    <updated>2025-07-15</updated>
+    <language>fr-FR</language>
+  </info>
+  <!-- Ici tu pourrais ajouter toute la logique CSL complète -->
+  <!-- Ceci est une version simplifiée à adapter selon le besoin -->
+</style>
